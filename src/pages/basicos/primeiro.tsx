@@ -1,4 +1,4 @@
-import Primeiro from "../components/basicos/Primeiro";
+import Primeiro from "../../components/basicos/Primeiro";
 
 export default function PrimeiraPagina() {
     return (

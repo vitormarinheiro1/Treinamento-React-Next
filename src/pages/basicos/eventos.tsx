@@ -1,4 +1,4 @@
-import Evento from "../components/basicos/Evento";
+import Evento from "../../components/basicos/Evento";
 
 export default function PaginaEventos() {
     return (

@@ -1,4 +1,4 @@
-import Caixa from "../components/basicos/Caixa";
+import Caixa from "../../components/basicos/Caixa";
 
 export default function PaginaCaixas() {
     return (
